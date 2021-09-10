@@ -1,9 +1,13 @@
 # Todos for this repo:
 
-- Make checkbox workable
-  - add pause feature
-- Add trash icon/delete features
-- Add local storage hijinks
-- Add favicon
+- [x] Make checkbox workable 
+- [x] add pause feature
+- [x] Add trash icon/delete
+features
+- [x] Add local storage hijinks
+
+- [ ] Make task item constant height
+- [ ] make carpe a card
+- [ ] Add favicon
 
 Then you're done!!
